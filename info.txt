@@ -1,1 +1,1 @@
-Hello I am Timothy Darrell and this is a test commit for this repository.
+Hello I am [INSERT YOUR NAME HERE] and this is a test commit for this repository
